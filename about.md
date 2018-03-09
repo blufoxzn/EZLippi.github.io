@@ -22,7 +22,7 @@ title: "关于：About"
 
 * 搭建于[Github](https://github.com/LippiOuYang/LippiOuYang.github.io),欢迎Fork
 * 模板及样式来源[Useful Paradigm](http://usefulparadigm.com/)
-* 折腾开始于2018年3月9日，基本在2018年3月15日完工。
+* 折腾开始于2018年3月9日，基本预计在2018年3月15日完工。
 
 ## 其他流言
 * 未**女昏**人士；
