@@ -15,7 +15,7 @@ title: "关于：About"
  <a href="http://weibo.com/blufox" title="微博联系我"><img src="http://www.sinaimg.cn/blog/developer/wiki/LOGO_32x32.png" width="24" height="24" style="display:inline-block;vertical-align:middle"></a><br/>
         <a href="http://www.zhihu.com/people/XXXXXXXXXXX" title="知乎联系我"><img src="http://www.zhihu.com/favicon.ico" width="24" height="24" style="display:inline-block;vertical-align:middle"></a><br/>
  <a href="https://github.com/blufoxzn" title="Github联系我"><img src="http://www.github.com/favicon.ico" width="24" height="24" style="display:inline-block;vertical-align:middle"></a><br/>
-邮箱: ouyanglip@gmail.com 
+邮箱: blufoxn@gmail.com 
 </p>
 
 ### 关于本站：
